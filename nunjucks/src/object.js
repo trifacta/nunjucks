@@ -1,7 +1,7 @@
 'use strict';
 
 // A simple class system, more documentation to come
-const EventEmitter = require('events');
+const EventEmitter = require('jsEvents');
 const lib = require('./lib');
 
 function parentWrap(parent, prop) {
