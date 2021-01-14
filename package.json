@@ -6,7 +6,8 @@
   "dependencies": {
     "a-sync-waterfall": "^1.0.0",
     "asap": "^2.0.3",
-    "commander": "^5.1.0"
+    "commander": "^5.1.0",
+    "jsEvents": "npm:events@^3.2.0"
   },
   "browser": "./browser/nunjucks.js",
   "devDependencies": {
