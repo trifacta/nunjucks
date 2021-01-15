@@ -12,6 +12,7 @@ templating engine for javascript. It is heavily inspired by
 [here](https://mozilla.github.io/nunjucks/).
 
 ## Installation
+test
 
 `npm install nunjucks`
 
